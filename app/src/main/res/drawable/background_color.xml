@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Dolgu rengi -->
+    <stroke
+        android:width="2dp"/> <!-- Kalınlık -->
+
+    <stroke
+        android:color="@color/black"
+        />><!-- Çerçeve rengi -->
+    <corners android:radius="0dp" /> <!-- Kenar yuvarlatma (isteğe bağlı) -->
+</shape>
